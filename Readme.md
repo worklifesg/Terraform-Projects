@@ -1,7 +1,7 @@
 # Terraform Projects
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-![](https://img.shields.io/badge/terraform1.3.7-orange) ![](https://img.shields.io/badge/AWS) ![](https://img.shields.io/badge/Automation-green) ![](https://img.shields.io/badge/UPDATED-22/Jan/2023-yellow) ![visitors](https://visitor-badge.laobi.icu/badge?page_id=worklifesg.Terraform-Projects)
+![](https://img.shields.io/badge/terraform1.3.7-orange) ![](https://img.shields.io/badge/AWS-red) ![](https://img.shields.io/badge/Automation-green) ![](https://img.shields.io/badge/UPDATED-22/Jan/2023-yellow) ![visitors](https://visitor-badge.laobi.icu/badge?page_id=worklifesg.Terraform-Projects)
 
 
 ## Table of contents
