@@ -15,6 +15,9 @@
 
 -# | Project-Name  | Link | Status | Date |
 | ------------- | ------------- | ------------- | -------------- | ------------- |
+| Create AWS service execution role | ------------- | ------------- | -------------- | ------------- |
+| Deploy AWS Lambda via Terraform | ------------- | ------------- | -------------- | ------------- |
+| Deploy AWS Transcribe Pipeline | ------------- | ------------- | -------------- | ------------- |
 
 ### Additional Knowledge repo:
 
