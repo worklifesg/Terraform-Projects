@@ -14,7 +14,7 @@
 
 -# | Topic  | Link | Status | Date |
 | ------------- | ------------- | ------------- | -------------- | ------------- |
-| 1 | Vault Introduction  | ![Page link](https://github.com/worklifesg/Terraform-Projects/blob/227be55d693b6f06ea045bc2728d52134b7d1db1/Vault_introduction.md) | ![](https://img.shields.io/badge/Completed-green)  | ![](https://img.shields.io/badge/2023-04/Feb-green) |
+| 1 | Vault Introduction  | ![Page link](https://github.com/worklifesg/Terraform-Vault-Works/blob/227be55d693b6f06ea045bc2728d52134b7d1db1/Vault_introduction.md) | ![](https://img.shields.io/badge/Completed-green)  | ![](https://img.shields.io/badge/2023-04/Feb-green) |
 
 ## General info
 This repository is on Terraform projects that I would like to practice and customize the solution to present the whole architecture pipeline clearly. 
