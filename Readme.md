@@ -6,9 +6,15 @@
 
 ## Table of contents
 * [General info](#general-info)
+* [Terraform Installation](#terraform-installation)
 * [Terraform based Projects](#terraform-based-projects)
 * [Terraform based Automation](#terraform-based-automation)
 * [Terraform & Vault](#terraform-&-vault)
+
+### Terraform Projects:
+
+-# | Project-Name  | Link | Status | Date |
+| ------------- | ------------- | ------------- | -------------- | ------------- |
 
 ### Additional Knowledge repo:
 
