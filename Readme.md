@@ -26,13 +26,15 @@ This repository is on Terraform projects that I would like to practice and custo
 
 ## Quick Touchpoint on Terraform
 
-In simple language (if you work in cloud infrastructure, you will get it !), **Terraform** is an IaC tool to **B**uild, **C**hange, & **V**ersion Infrastructure efficiently. It comes in three formats: CLI (open source), Cloud, & Enterprise version. Please visit at ![Terraform Docs](https://developer.hashicorp.com/terraform/docs) for more information. In addition, you can find my Terraform notes in this repo.
+In simple language (if you work in cloud infrastructure, you will get it !), 
+
+**Terraform** is an IaC tool to **B**uild, **C**hange, & **V**ersion Infrastructure efficiently. It comes in three formats: CLI (open source), Cloud, & Enterprise version. Please visit at [Terraform Docs](https://developer.hashicorp.com/terraform/docs) for more information. In addition, you can find my Terraform notes in this repo.
 
 ## Terraform Installation
 
 ### Windows
 
-1. Install latest version of Terraform ![here](https://developer.hashicorp.com/terraform/downloads) i.e. AMD64 in most cases
+1. Install latest version of Terraform [here](https://developer.hashicorp.com/terraform/downloads) i.e. AMD64 in most cases
 2. Unzip the installed file
 3. Edit your system variables and add the unzipped folder location to your PATH
 4. Check ```terraform -version``` on your CMD or VSCode Terminal
@@ -61,7 +63,7 @@ sudo apt update && sudo apt install terraform
 
 ### Isolated Linux instance (with internet disabled but might need sudo permissions)
 
-1. Install the binary on your system with internet (i.e. ARM64 version) ![Link](https://developer.hashicorp.com/terraform/downloads)
+1. Install the binary on your system with internet (i.e. ARM64 version) [Link](https://developer.hashicorp.com/terraform/downloads)
 2. FTP the package into your isolated instance
 3. Run following commands:
 
