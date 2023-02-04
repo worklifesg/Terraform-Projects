@@ -14,7 +14,9 @@
 
 -# | Topic  | Link | Status | Date |
 | ------------- | ------------- | ------------- | -------------- | ------------- |
-| 1 | Vault Introduction  | ![Page link](https://github.com/worklifesg/Terraform-Vault-Works/blob/master/Vault_introduction.md) | ![](https://img.shields.io/badge/Completed-green)  | ![](https://img.shields.io/badge/2023-04/Feb-green) |
+| 1 | Vault Introduction  | [Page link](https://github.com/worklifesg/Terraform-Vault-Works/blob/master/Vault_introduction.md) | ![](https://img.shields.io/badge/Completed-green)  | ![](https://img.shields.io/badge/2023-04/Feb-green) |
+| 2 | Consul Storage Backend | [Page link](https://github.com/worklifesg/Terraform-Vault-Works/blob/master/Consul-Storage-backend.md) | ![](https://img.shields.io/badge/Completed-green)  | ![](https://img.shields.io/badge/2023-04/Feb-green) |
+| 3 | Vault Integrated Storage Backend  | [Page link](https://github.com/worklifesg/Terraform-Vault-Works/blob/master/Consul-Integrated-Storage-Backend.md) | ![](https://img.shields.io/badge/Completed-green)  | ![](https://img.shields.io/badge/2023-04/Feb-green) |
 
 ## General info
 This repository is on Terraform projects that I would like to practice and customize the solution to present the whole architecture pipeline clearly. 
