@@ -1,4 +1,4 @@
-# Terraform Projects
+# Terraform/Vault Knowledge & Projects
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ![](https://img.shields.io/badge/terraform1.3.7-orange) ![](https://img.shields.io/badge/AWS-red) ![](https://img.shields.io/badge/Automation-green) ![](https://img.shields.io/badge/UPDATED-22/Jan/2023-yellow) ![visitors](https://visitor-badge.laobi.icu/badge?page_id=worklifesg.Terraform-Projects)
@@ -9,6 +9,12 @@
 * [Terraform based Projects](#terraform-based-projects)
 * [Terraform based Automation](#terraform-based-automation)
 * [Terraform & Vault](#terraform-&-vault)
+
+### Additional Knowledge repo:
+
+-# | Topic  | Link | Status | Date |
+| ------------- | ------------- | ------------- | -------------- | ------------- |
+| 1 | Vault Introduction  | ![Page link](https://github.com/worklifesg/Terraform-Projects/blob/227be55d693b6f06ea045bc2728d52134b7d1db1/Vault_introduction.md) | ![](https://img.shields.io/badge/Completed-green)  | ![](https://img.shields.io/badge/2023-04/Feb-green) |
 
 ## General info
 This repository is on Terraform projects that I would like to practice and customize the solution to present the whole architecture pipeline clearly. 

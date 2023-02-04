@@ -52,5 +52,21 @@ vault login %login with root token
 * Automatic provisioning of Vault
 * Additional steps are: Add config file (/etc/vault/config.json), Create systemd file (Linux and resides in /etc/systemd/system), Config Storage Backend (Consul in our case)
 
-/etc/systemd/system/vault.service
-/etc/vault.d/vault.hcl
+```
+/etc/systemd/system/vault.service %systemd service file
+/etc/vault.d/vault.hcl %vault config file
+/opt/vault/data %storing data
+sudo systemctl start vault
+sudo systemctl stop vault
+vault status
+systemctl status vault
+sudo journalctl -u vault
+```
+
+When you edit or make changes in `vault.service`:
+
+```
+sudo vi /etc/systemd/system/vault.service
+sudo systemctl daemon-reload
+sudo systemctl start vault
+```
