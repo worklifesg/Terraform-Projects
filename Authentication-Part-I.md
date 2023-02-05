@@ -19,7 +19,7 @@ In authentication, we will understand: Auth methods, Auth workflow, Entities and
 
 Auth workflow can be illustrated in image below:
 
-<img src="https://github.com/worklifesg/Terraform-Vault-Works/blob/master/images/Vault_auth_method.jpg" width="300" height="450">
+<img src="https://github.com/worklifesg/Terraform-Vault-Works/blob/master/images/Vault_auth_method.jpg" width="600" height="300" style="horizontal-align:middle">
 
 * User authenticates Vault with credentials
 * Authenticated credentials are validated against the provider
